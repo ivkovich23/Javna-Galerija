@@ -1,0 +1,24 @@
+# Ignoriši uploadovane slike
+/uploads/
+
+# Ignoriši sistemske fajlove
+.DS_Store
+Thumbs.db
+
+# Ignoriši log fajlove
+*.log
+
+# Ignoriši IDE fajlove
+.vscode/
+.idea/
+
+# Composer / Node (ako ikad koristiš)
+vendor/
+node_modules/
+
+# Backup fajlovi
+*.bak
+*.tmp
+
+# Privatne konfiguracije
+.env
